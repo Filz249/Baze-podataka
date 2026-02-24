@@ -1,5 +1,3 @@
-## PRVI KOLOKVIJ 
-
 ## PRVI KOLOKVIJ
 
 <details>

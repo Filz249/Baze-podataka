@@ -2,7 +2,7 @@
 
 <details>
 <summary><strong>1. Što je baza podataka?</strong></summary>
-- **Baza podataka** je skup istovrsnih podataka s višestrukom namjenom. Korisnik nije zainteresiran za sve vrste podataka u bazi, već samo za one koji su mu potrebni u njegovom poslu. Korisnik može imati uvid u samo jednu, njemu potrebnu datoteku koja ima uvijek istu i to vrlo jednostavnu strukturu, iako je u biti izvedena iz mnogo kompleksnije strukture podataka. Različiti korisnici uzimaju u obzir različite datoteke izvedene iz iste baze podataka.
+**Baza podataka** je skup istovrsnih podataka s višestrukom namjenom. Korisnik nije zainteresiran za sve vrste podataka u bazi, već samo za one koji su mu potrebni u njegovom poslu. Korisnik može imati uvid u samo jednu, njemu potrebnu datoteku koja ima uvijek istu i to vrlo jednostavnu strukturu, iako je u biti izvedena iz mnogo kompleksnije strukture podataka. Različiti korisnici uzimaju u obzir različite datoteke izvedene iz iste baze podataka.
 </details>
 
 ---

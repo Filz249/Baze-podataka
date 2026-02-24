@@ -11,12 +11,14 @@
 
 <details>
 <summary><strong>2. Zajedničke osobine za sve sustave baza podataka.</strong></summary>
+  
 - Apstraktni model podataka 
 - Visoka razina pristupa ili upitnih jezika 
 - Upravljanje transakcijama u višekorisničkom okruženju 
 - Kontrola pristupa i vlasništvo nad podacima 
 - Validacija podataka i provjera konzistentnosti 
 - Konzistentni oporavak podataka nakon ispada sustava i/ili strojne opreme
+
 </details>
 
 ---

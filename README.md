@@ -109,7 +109,9 @@
 <summary><strong>8. Što su to entitet, veza i atribut?</strong></summary>
   
 **1. Entitet** je stvar, objekt, od značaja, realan ili imaginaran za koji je potrebno poznavati i čuvati određene informacije.
+
 **2.Atribut** je svaki detalj koji služi da pobliže odredi, identificira, klasificira, kvantificira ili izrazi stanje entiteta.
+
 **3. Veza** je agregacija/povezivanje dvaju ili više entiteta u novi entitet – vezu koji može imati i svoje atribute.
 
 </details>
@@ -122,7 +124,8 @@
 <summary><strong>9. Što čini relaciju?</strong></summary>
   
 1. Zaglavlje od r je zaglavlje n-torke. 
-   - Relacija r ima iste atribute i isti stupanj kao i zaglavlje. 
+   - Relacija r ima iste atribute i isti stupanj kao i zaglavlje.
+
 2. Tijelo od r je skup n-torki koje sve imaju isto zaglavlje, kardinalnost n-torki je i kardinalnost od r.
   
 </details>

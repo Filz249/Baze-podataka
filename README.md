@@ -91,9 +91,11 @@
 <summary><strong>7. Navedite osnovne postupke apstrakcije.</strong></summary>
   
 **1. Klasifikacija**
-- Klasificiranje, opis i grupiranje entiteta u klase, razrede, odnosno tipove prema zajedničkim obilježjima. Opisuje se vezom (odnosom) “jest pojava” (engl. instance of). 
+- Klasificiranje, opis i grupiranje entiteta u klase, razrede, odnosno tipove prema zajedničkim obilježjima. Opisuje se vezom (odnosom) “jest pojava” (engl. instance of).
+ 
 **2. Generalizacija**
 - Tipovi entiteta niže razine uopćuju se tipom entiteta više razine (nadtip i podtip). Opisuje se vezom “jest” (engl. is a).
+
 **3. Agregacija**
 - Formiranje novog pojma, višeg stupnja, na temelju odnosa postojećih pojmova.
   

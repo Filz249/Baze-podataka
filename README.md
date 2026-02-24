@@ -41,13 +41,15 @@
 <details>
 <summary><strong>4. Nabrojite tri razine baze podataka.</strong></summary>
 
-**1. Konceptualna razina**
-     - predstavlja logički pogled na čitavu bazu podataka, preslikani model organizacije.
-**2. Korisnička (vanjska) razina**
-     - individualni korisnički pogled na bazu podataka, razvija se sukladno potrebama korisnika, može se razlikovati od sheme baze podataka.
-**3. Fizička (unutarnja) razina**
-     - implementiranje baze podataka na konkretnom hardveru, fizička pohrana podataka na mediju   
-     
+**1. Konceptualna razina**  
+- predstavlja logički pogled na čitavu bazu podataka, preslikani model organizacije.
+
+**2. Korisnička (vanjska) razina**  
+- individualni korisnički pogled na bazu podataka, razvija se sukladno potrebama korisnika, može se razlikovati od sheme baze podataka.
+
+**3. Fizička (unutarnja) razina**  
+- implementiranje baze podataka na konkretnom hardveru, fizička pohrana podataka na mediju.
+
 </details>
 
 ---

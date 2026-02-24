@@ -2,7 +2,7 @@
 
 <details>
 <summary><strong>1. Što je baza podataka?</strong></summary>
-- Baza podataka je skup istovrsnih podataka s višestrukom namjenom. Korisnik nije zainteresiran za sve vrste podataka u bazi, već samo za one koji su mu potrebni u njegovom poslu. Korisnik može imati uvid u samo jednu, njemu potrebnu datoteku koja ima uvijek istu i to vrlo jednostavnu strukturu, iako je u biti izvedena iz mnogo kompleksnije strukture podataka. Različiti korisnici uzimaju u obzir različite datoteke izvedene iz iste baze podataka.
+- **Baza podataka** je skup istovrsnih podataka s višestrukom namjenom. Korisnik nije zainteresiran za sve vrste podataka u bazi, već samo za one koji su mu potrebni u njegovom poslu. Korisnik može imati uvid u samo jednu, njemu potrebnu datoteku koja ima uvijek istu i to vrlo jednostavnu strukturu, iako je u biti izvedena iz mnogo kompleksnije strukture podataka. Različiti korisnici uzimaju u obzir različite datoteke izvedene iz iste baze podataka.
 </details>
 
 ---
@@ -58,7 +58,12 @@
 
 <details>
 <summary><strong>5. Nabrojite osnovne tipove funkcija SUBP-a.</strong></summary>
-
+  
+- Aplikacija (engl. software) je sposobna upravljati radom jedne ili više baza podataka
+- Mora osigurati stvaranje i održavanje sve tri razine baze podataka, kao i njihovo međusobno preslikavanje
+- Reorganiziranje unutarnje ili fizičke razine bez mijenjanja logičke tj. konceptualne sheme
+- Promjenu konceptualne sheme bez mijenjanja postojeće vanjske sheme.
+  
 </details>
 
 ---
@@ -68,6 +73,12 @@
 <details>
 <summary><strong>6. Nabrojite modele baza podataka.</strong></summary>
 
+1. Hijerarhijske
+2. Mrežne
+3. Relacijske
+4. Relacijske baze s objektno orijentiranim proširenjima
+5. Objektno orijentirane baze podataka
+
 </details>
 
 ---
@@ -76,7 +87,14 @@
 
 <details>
 <summary><strong>7. Navedite osnovne postupke apstrakcije.</strong></summary>
-
+  
+**1. Klasifikacija**
+- Klasificiranje, opis i grupiranje entiteta u klase, razrede, odnosno tipove prema zajedničkim obilježjima. Opisuje se vezom (odnosom) “jest pojava” (engl. instance of). 
+**2. Generalizacija**
+- Tipovi entiteta niže razine uopćuju se tipom entiteta više razine (nadtip i podtip). Opisuje se vezom “jest” (engl. is a).
+**3. Agregacija**
+- Formiranje novog pojma, višeg stupnja, na temelju odnosa postojećih pojmova.
+  
 </details>
 
 ---
@@ -85,6 +103,10 @@
 
 <details>
 <summary><strong>8. Što su to entitet, veza i atribut?</strong></summary>
+  
+**1. Entitet** je stvar, objekt, od značaja, realan ili imaginaran za koji je potrebno poznavati i čuvati određene informacije.
+**2.Atribut** je svaki detalj koji služi da pobliže odredi, identificira, klasificira, kvantificira ili izrazi stanje entiteta.
+**3. Veza** je agregacija/povezivanje dvaju ili više entiteta u novi entitet – vezu koji može imati i svoje atribute.
 
 </details>
 
@@ -94,7 +116,11 @@
 
 <details>
 <summary><strong>9. Što čini relaciju?</strong></summary>
-
+  
+1. Zaglavlje od r je zaglavlje n-torke. 
+   - Relacija r ima iste atribute i isti stupanj kao i zaglavlje. 
+2. Tijelo od r je skup n-torki koje sve imaju isto zaglavlje, kardinalnost n-torki je i kardinalnost od r.
+  
 </details>
 
 ---

@@ -47,6 +47,7 @@
      - individualni korisnički pogled na bazu podataka, razvija se sukladno potrebama korisnika, može se razlikovati od sheme baze podataka.
 **3. Fizička (unutarnja) razina**
      - implementiranje baze podataka na konkretnom hardveru, fizička pohrana podataka na mediju   
+     
 </details>
 
 ---

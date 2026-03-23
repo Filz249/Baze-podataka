@@ -130,12 +130,12 @@
 <details>
 <summary><strong>9. Što čini relaciju?</strong></summary>
   
-1. Zaglavlje od r je zaglavlje n-torke.
+1. Atributi (stupci)
 
-- Relacija r ima iste atribute i isti stupanj kao i zaglavlje.
+2. Torke (Retci)
 
-3. Tijelo od r je skup n-torki koje sve imaju isto zaglavlje, kardinalnost n-torki je i kardinalnost od r.
-  
+3. Ključevi
+
 </details>
 
 ---

@@ -145,7 +145,7 @@
 <details>
 <summary><strong>10. Što su to ključevi relacije i navedite ih?</strong></summary>
   
-**Ključevi relacije** u relacijskoj bazi podataka su atributi ili skup atributa koji služe za jedinstveno identificiranje svake n-torke u relaciji.
+**Ključevi relacije** su atributi ili skup atributa koji služe za jedinstveno identificiranje svake n-torke u relaciji.
 
 **1. Super ključ** - atribut ili skup atributa koji jedinstveno određuje n torku unutar relacije.
 

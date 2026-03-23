@@ -61,11 +61,18 @@
 <details>
 <summary><strong>5. Nabrojite osnovne tipove funkcija SUBP-a.</strong></summary>
   
-- Aplikacija (engl. software) je sposobna upravljati radom jedne ili više baza podataka
-- Mora osigurati stvaranje i održavanje sve tri razine baze podataka, kao i njihovo međusobno preslikavanje
-- Reorganiziranje unutarnje ili fizičke razine bez mijenjanja logičke tj. konceptualne sheme
-- Promjenu konceptualne sheme bez mijenjanja postojeće vanjske sheme.
-  
+1. DDL (definiranje)
+
+- Kreira i definira strukturu baze
+
+2. DML (manipulacija)
+
+- Rad s podacima (unos, izmjena, brisanje, dohvat)
+
+3. Upravljačke funkcije
+
+- Sigurnost, backup, optimizacija
+ 
 </details>
 
 ---

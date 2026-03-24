@@ -206,13 +206,23 @@
 <details>
 <summary><strong>13. Pojasniti preslikavanje iz ER modela u relacijski model.</strong></summary>
 
-<ins>**VEZA JEDAN: VIŠE**</ins> - Primarni  ključ  entiteta  sa  strane  veze  JEDAN  doda  se  kao  strani  ključ  u  entitet  sa strane  veze VIŠE
 
-<ins>**VEZA VIŠE : VIŠE**</ins> - Doda  se novi  entitet,  koji  sadrži primarne ključeve  obaju  rubnih  entiteta. Ti  atributi zajedno  tvore složeni primarni ključ  novonastalog  entiteta.
+1. Svaki entitet postaje tablica.
 
-**Usporedne veze** - Svaku  vezu  zamijenimo  s  po  jednim  stranim  ključem  u  relaciji  na  strani  veze VIŠE  (usporedne  veze  se  preslikaju  u  jednu,  ali  s   uvođenjem  dodatnog  stranog ključa). Da  bi  razlikovali  veze  među  entitetima  stranim  ključevima  damo  različite nazive.
+2. Njegovi atributi postaju stupci, a ključ je primarni ključ.
 
-**Povratne veze** - Doda  se strani ključ  jednak primarnom ključu  relacije.  Za  povratne  veze  vrijedi  da  je   strani  ključ  jednak primarnom  ključu relacije,  ali pod  drugim imenom.
+3. Ako atribut ima više vrijednosti, napravi se nova tablica.
+
+4. Veze:
+
+1:N - ključ ide u “više” tablicu
+
+N:M - napravi se nova tablica
+
+1:1 - ključ ide u jednu od tablica
+
+5. Slabi entitet dobiva svoj i strani ključ zajedno.
+
 
 </details>
 

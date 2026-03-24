@@ -215,11 +215,10 @@
 
 4. Veze:
 
-1:* - ključ ide u “više” tablicu
+1..* - ključ ide u “više” tablicu
+*..* - napravi se nova tablica
 
-*:* - napravi se nova tablica
-
-1:1 - ključ ide u jednu od tablica
+1..1 - ključ ide u jednu od tablica
 
 5. Slabi entitet dobiva svoj i strani ključ zajedno.
 

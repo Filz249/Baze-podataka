@@ -215,9 +215,9 @@
 
 4. Veze:
 
-1:N - ključ ide u “više” tablicu
+1:* - ključ ide u “više” tablicu
 
-N:M - napravi se nova tablica
+*:* - napravi se nova tablica
 
 1:1 - ključ ide u jednu od tablica
 
